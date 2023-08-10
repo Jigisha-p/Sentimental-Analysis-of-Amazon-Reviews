@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow-macos
+scikit-learn
+keras
+regex
+nltk
+xgboost
+wordcloud
+imbalanced-learn
+textblob
