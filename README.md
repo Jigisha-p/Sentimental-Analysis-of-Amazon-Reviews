@@ -46,17 +46,17 @@ Hint: Another variation of LSTM, GRU (Gated Recurrent Units) can be tried as wel
 
 11. Compare the accuracy of neural nets with traditional ML based algorithms.
 
-3. Find the best setting of LSTM (Neural Net) and GRU that can best classify the reviews as positive, negative, and neutral.
+12. Find the best setting of LSTM (Neural Net) and GRU that can best classify the reviews as positive, negative, and neutral.
 
 Hint: Use techniques like Grid Search, Cross-Validation and Random Search
 
 <b> Topic Modeling:</b>
 
-4. Cluster similar reviews.
+13. Cluster similar reviews.
 
 Note: Some reviews may talk about the device as a gift-option. Other reviews may be about product looks and some may highlight about its battery and performance. Try naming the clusters.
 
-5. Perform Topic Modeling
+14. Perform Topic Modeling
 
 Hint: Use scikit-learn provided Latent Dirchlette Allocation (LDA) and Non-Negative Matrix Factorization (NMF).<br>
 
